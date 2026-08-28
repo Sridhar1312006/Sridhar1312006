@@ -39,17 +39,3 @@
 </p>
 
 > **Hardware & EDA:** Verilog • SystemVerilog • Xilinx Vivado • Cadence Virtuoso • FPGA (Nexys A7) • Static Timing Analysis (STA) • APB/AHB/AXI Protocols
-
-## 📊 GitHub Analytics
-<p align="center">
-  <!-- GitHub Stats Card -->
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Sridhar1312006&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  
-  <!-- Most Used Languages Card -->
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sridhar1312006&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-## 📈 My 3D Contribution Graph
-<p align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/api?username=Sridhar1312006&theme=tokyonight" alt="3D Contribution Graph" />
-</p>
