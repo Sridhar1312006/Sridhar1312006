@@ -28,7 +28,6 @@
   <img src="https://img.shields.io/badge/SystemVerilog-0A85EA?style=for-the-badge&logo=cplusplus&logoColor=white" alt="SystemVerilog" />
   <img src="https://img.shields.io/badge/TCL_Scripting-135D66?style=for-the-badge&logo=gnubash&logoColor=white" alt="TCL" />
   <img src="https://img.shields.io/badge/C%20%2F%20C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C/C++" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Linux_Shell-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
