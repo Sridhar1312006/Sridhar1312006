@@ -12,10 +12,31 @@
 - ⚡ **Fun Fact:** I spend hours optimizing clock cycles and pipeline stages, but off-screen you'll find me exploring open-world games.
 
 ## 🛠️ My Tech Stack
+
+### ⚡ EDA Tools & Simulators
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,matlab,linux,git,github,arduino" alt="Skills" />
-  </a>
+  <img src="https://img.shields.io/badge/EDA_Playground-007ACC?style=for-the-badge&logo=codeforces&logoColor=white" alt="EDA Playground" />
+  <img src="https://img.shields.io/badge/Cadence_Virtuoso-CC0000?style=for-the-badge&logo=microchip&logoColor=white" alt="Cadence" />
+  <img src="https://img.shields.io/badge/Synopsys-5C2D91?style=for-the-badge&logo=intel&logoColor=white" alt="Synopsys" />
+  <img src="https://img.shields.io/badge/Xilinx_Vivado-E51A24?style=for-the-badge&logo=amd&logoColor=white" alt="Vivado" />
+  <img src="https://img.shields.io/badge/ModelSim-00599C?style=for-the-badge&logo=mentor&logoColor=white" alt="ModelSim" />
+</p>
+
+### 💻 Hardware & Scripting Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/Verilog_HDL-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="Verilog" />
+  <img src="https://img.shields.io/badge/SystemVerilog-0A85EA?style=for-the-badge&logo=cplusplus&logoColor=white" alt="SystemVerilog" />
+  <img src="https://img.shields.io/badge/TCL_Scripting-135D66?style=for-the-badge&logo=gnubash&logoColor=white" alt="TCL" />
+  <img src="https://img.shields.io/badge/C%20%2F%20C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C/C++" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Linux_Shell-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+</p>
+
+### 📡 Protocols & Hardware Boards
+<p align="left">
+  <img src="https://img.shields.io/badge/Bus_Protocols-AXI_%7C_AHB_%7C_APB-brightgreen?style=for-the-badge" alt="SoC Protocols" />
+  <img src="https://img.shields.io/badge/FPGA-Xilinx_Nexys_A7-blueviolet?style=for-the-badge" alt="FPGA" />
+  <img src="https://img.shields.io/badge/STA-Static_Timing_Analysis-orange?style=for-the-badge" alt="STA" />
 </p>
 
 > **Hardware & EDA:** Verilog • SystemVerilog • Xilinx Vivado • Cadence Virtuoso • FPGA (Nexys A7) • Static Timing Analysis (STA) • APB/AHB/AXI Protocols
